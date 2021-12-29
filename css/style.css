@@ -14,3 +14,30 @@
     color: white;
     font-family: fantasy;
 }
+
+.umarov{
+    margin: 20px;
+    padding: 100px;
+    background-color: darkgrey;
+    text-align: center;
+}
+.umarovs__title{
+    font-family: sans-serif;
+    font-size: 92px;
+}
+.my__img{
+    display: block;
+    margin: 10px auto 5px;
+    width: 50%;
+    height: 500px;
+    transition: .5s;
+}
+.my__img:hover {
+    transform: scale(1.2);
+}
+.my__text{
+    font-family: serif;
+    font-size: 32px;
+    color: black; 
+}
+

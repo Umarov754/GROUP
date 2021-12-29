@@ -14,3 +14,10 @@
     color: white;
     font-family: fantasy;
 }
+.ismoil{
+    width: 1920px;
+    text-align: center;
+    height: 40px;  
+    background-color: rgb(225, 8, 8);
+    border-radius: blue;
+}

@@ -28,4 +28,10 @@
     float: left;
     shape-outside: circle();
     margin-right: 1rem;
+.ismoil{
+    width: 1920px;
+    text-align: center;
+    height: 40px;  
+    background-color: rgb(225, 8, 8);
+    border-radius: blue;
 }

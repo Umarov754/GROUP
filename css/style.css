@@ -14,6 +14,28 @@
     color: white;
     font-family: fantasy;
 }
+.git-title{
+    font-size: 60px;
+    color: #000e00;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+.github{
+    display: block;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto 50px auto;
+}
+.git-text{
+    font-size: 25px;
+    padding: 10px 0 40px;
+    text-align: center;
+}
 .bobur{
     background-color: rgb(179, 38, 108);
     padding: 20px 0;

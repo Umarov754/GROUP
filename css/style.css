@@ -14,3 +14,54 @@
     color: white;
     font-family: fantasy;
 }
+.lazjon{
+    background: rgb(57, 74, 94);
+    padding: 50px;
+    
+}
+.lazjon__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.lazjon__title{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    font-family: serif;
+    color: #fff;
+    text-align: center;
+    font-size: 80px;
+    text-transform: uppercase;
+}
+.lazjon__img{
+    width: 800px;
+    height: 500px;
+    margin: 50px auto 80px auto;
+    animation: lazjon 1s 0s linear alternate infinite;
+    border-radius: 20px;
+}
+@keyframes lazjon {
+    0%{
+        transform: scale(1);
+    }
+    50%{
+     transform: scale(1.1);   
+    }
+    100%{
+        transform: scale(1);   
+        
+    }
+}
+.lazjon__text{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: red;
+    background: green;
+    max-width: 700px;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+}

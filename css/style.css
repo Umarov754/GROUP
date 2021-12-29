@@ -65,3 +65,70 @@
     border-radius: 10px;
     margin: 0 auto;
 }
+.git-title{
+    font-size: 60px;
+    color: #000e00;
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+.github{
+    display: block;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    margin: 50px auto 50px auto;
+}
+.git-text{
+    font-size: 25px;
+    padding: 10px 0 40px;
+    text-align: center;
+}
+.bobur{
+    background-color: rgb(179, 38, 108);
+    padding: 20px 0;
+}
+.sarlavha{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 30px;
+}
+.rasm{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    transition: .5s;
+}
+.rasm:hover{
+    transform: scale(1.2);
+}
+.tekst{
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
+.pubg_h{
+    
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.pubg_img{
+    border-radius: 50%;
+    height: 500px;
+    width: 500px;
+    aspect-ratio: 1;
+    float: left;
+    shape-outside: circle();
+    margin-right: 1rem;
+.ismoil{
+    width: 1920px;
+    text-align: center;
+    height: 40px;  
+    background-color: rgb(225, 8, 8);
+    border-radius: blue;
+}

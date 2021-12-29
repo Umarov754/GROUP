@@ -14,6 +14,30 @@
     color: white;
     font-family: fantasy;
 }
+.bobur{
+    background-color: rgb(179, 38, 108);
+    padding: 20px 0;
+}
+.sarlavha{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 30px;
+}
+.rasm{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    transition: .5s;
+}
+.rasm:hover{
+    transform: scale(1.2);
+}
+.tekst{
+    width: 600px;
+    margin: 0 auto;
+    color: white;
+    text-align: center;
 .pubg_h{
     
     text-align: center;
